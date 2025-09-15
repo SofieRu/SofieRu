@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="25"/>
+### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="30"/>
 
 I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology at [**Imperial College London**](https://github.com/imperialcollegelondon).
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 banner i like: https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif for linked in
-banner i like: 
+banner i like: <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="30"/>, for waving cattt 
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
