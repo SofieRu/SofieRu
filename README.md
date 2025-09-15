@@ -12,6 +12,10 @@ Looking ahead, I want to further study how combining machine learning with synth
 
 ### Let's connect!
 
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://de.linkedin.com/in/peter-r%C3%BCffer-81904427)
+[<img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif
+" />](https://de.linkedin.com/in/peter-r%C3%BCffer-81904427)
+
 <!--
 
 Here are some ideas to get you started:
@@ -23,6 +27,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+banner i like: https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif for linked in
+banner i like: 
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
