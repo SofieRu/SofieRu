@@ -1,11 +1,11 @@
 ### Hi there!
 
-I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology at [**@Imperial College**](https://github.com/imperialcollegelondon).
+I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology at [**Imperial College**](https://github.com/imperialcollegelondon).
 
 I’m fascinated by the intersection of biology and computer science and enjoy working on projects that help us better understand and engineer living systems.
 
 Previously, I worked on curating a genome-scale metabolic model of *Vibrio natriegens* and analysed its amino acid metabolism in comparison with the model organism *Escherichia coli*. 
-As part of [**@iGEM**](https://gitlab.igem.org/2024/duesseldorf), I developed [*@ChromoBlend*](https://gitlab.igem.org/2024/software-tools/duesseldorf), a software tool that uses machine learning to predict the right mix of chromoproteins for any HEX colour, making it easier to design coloured proteins for synthetic biology applications.
+As part of [**iGEM**](https://gitlab.igem.org/2024/duesseldorf), I developed [***ChromoBlend***](https://gitlab.igem.org/2024/software-tools/duesseldorf), a software tool that uses machine learning to predict the right mix of chromoproteins for any HEX colour, making it easier to design coloured proteins for synthetic biology applications.
 
 Looking ahead, I want to further study how combining machine learning with synthetic biology can be used to improve the predictions of biological systems. 
 
