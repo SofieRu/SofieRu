@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="30"/>
+### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="20"/>
 
 I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology at [**Imperial College London**](https://github.com/imperialcollegelondon).
 
