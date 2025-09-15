@@ -12,10 +12,6 @@ Looking ahead, I want to further study how combining machine learning with synth
 
 ### Let's connect!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://de.linkedin.com/in/peter-r%C3%BCffer-81904427)
-[<img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif
-" />](https://de.linkedin.com/in/peter-r%C3%BCffer-81904427)
-
 <!--
 
 Here are some ideas to get you started:
