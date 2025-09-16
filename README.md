@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="20"/>
 
-I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology at [**Imperial College London**](https://github.com/imperialcollegelondon).
+I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology.
 
 I’m fascinated by the intersection of biology and computer science and enjoy working on projects that help us better understand and engineer living systems.
 
@@ -28,6 +28,7 @@ banner i like: https://user-images.githubusercontent.com/74038190/235294012-0a55
 banner i like: <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="30"/>, for waving cattt 
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/name)
 
+at [**Imperial College London**](https://github.com/imperialcollegelondon)
 -->
