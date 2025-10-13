@@ -8,6 +8,8 @@ Previously, I worked on curating a genome-scale metabolic model of [***Vibrio na
 
 As part of [**iGEM**](https://gitlab.igem.org/2024/software-tools/duesseldorf), I developed [***ChromoBlend***](https://2024.igem.wiki/duesseldorf/software/), a software tool that uses machine learning to predict the right mix of chromoproteins for any HEX colour, making it easier to design coloured proteins for synthetic biology applications.
 
+I also participated in the IBM Z Datathon, where we built a machine learning [**model**](https://github.com/adrien-bdl/IBM-Z-Datathon) that predicts Parkinson’s disease risk based on lifestyle patterns, highlighting how data-driven insights can support early detection and prevention.
+
 Looking ahead, I want to further study how combining machine learning with synthetic biology can be used to improve the predictions of biological systems. 
 
 ### Let's connect!
