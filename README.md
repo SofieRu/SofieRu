@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.tenor.com/nxEME4zuezEAAAAj/cutie-cat-chan.gif" width="20"/>
 
-I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems and Synthetic Biology.
+I’m Sofie, a postgraduate student in London, currently doing my Master’s in Systems Biology.
 
 I’m fascinated by the intersection of biology and computer science and enjoy working on projects that help us better understand and engineer living systems.
 
