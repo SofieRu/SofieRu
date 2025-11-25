@@ -10,6 +10,8 @@ As part of [**iGEM**](https://gitlab.igem.org/2024/software-tools/duesseldorf), 
 
 I also participated in the IBM Z Datathon, where we built a machine learning [**model**](https://github.com/adrien-bdl/IBM-Z-Datathon) leveraging cloud computing that predicts Parkinson’s disease risk based on lifestyle patterns, highlighting how data-driven insights can support early detection and prevention.
 
+As part of the AI Agent Hackathon in collaboration with Digital Energy Grid (DEG), we developed a [**multi-agent AI system**](https://github.com/SofieRu/AI-Agent-Hackathon-HAIKARA) with full Beckn protocol implementation to optimise data center energy scheduling through real-time grid intelligence and placed 4th out of 50+ teams.
+
 Looking ahead, I want to further study how combining machine learning with synthetic biology can be used to improve the predictions of biological systems. 
 
 ### Let's connect!
